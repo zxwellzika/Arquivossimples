@@ -1,1 +1,1 @@
-este código faz o site redirecionar para outro site mantendo a URL original.
+este código faz o site redirecionar para outro site mantendo a URL original. para isso abra o gerenciador de arquivos do seu site, e crie ou edite o arquivo index.html, cole o código e salve o arquivo, pronto.
